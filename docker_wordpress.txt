@@ -1,9 +1,9 @@
 
 WIN WP DOCKER YUM+
 
-docker-compose.yml     scripte oluştur aşağıdaki kodları yaz kaydet
+docker-compose.yml     #scripte oluştur aşağıdaki kodları yaz kaydet
 https://www.youtube.com/watch?v=pYhLEV-sRpY
-Veri kalıcılığı docker-compose.yml için WordPressblogunuzu ve MySQLbirim bağdaştırıcıyı içeren ayrı bir örneği başlatan bir dosya oluşturun
+Veri kalıcılığı docker-compose.yml için WordPress blogunuzu ve MySQLbirim bağdaştırıcıyı içeren ayrı bir örneği başlatan bir dosya oluşturun
 
 version: '3'
 
